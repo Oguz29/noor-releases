@@ -7,14 +7,14 @@
       "bundleIdentifier": "app.noor.mobile",
       "developerName": "Noor Team",
       "subtitle": "Islamic Prayer Companion",
-      "version": "0.3.1",
-      "versionDate": "2026-10-24T22:53:43Z",
+      "version": "0.3.3",
+      "versionDate": "2026-10-24T23:48:03Z",
       "versionDescription": "Release v0.3.0",
-      "downloadURL": "https://github.com/Oguz29/noor-releases/releases/download/v0.3.1/app-unsigned.ipa",
+      "downloadURL": "https://github.com/Oguz29/noor-releases/releases/download/v0.3.3/app-unsigned.ipa",
       "localizedDescription": "A serene, offline-first Islamic prayer companion for iOS: prayer times (official Diyanet and offline calculation), Qibla, Qur'an, Hadith, Friday sermon, prayer tracker, Tasbih, friends and home screen widgets.",
       "iconURL": "https://raw.githubusercontent.com/Oguz29/noor-releases/main/icon.png",
       "tintColor": "#0e6e6a",
-      "size": 13066233,
+      "size": 13066264,
       "minOSVersion": "17.0"
     }
   ],
